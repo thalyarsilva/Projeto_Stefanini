@@ -1,4 +1,9 @@
 # Projeto_Stefanini
-Teste automatizado 
-
-Ultizei a linguagem Java, com as seguintes frameworks cucumber,junit,selenium,BDD, em criterio de escrita Gherking (projeto Maven) 
+Repositório baseia-se em um teste de automação da empressa Stefanini
+ 
+  Utilizei Eclipse na Linguagem Java e Frameworks como:
+* BDD
+* Cucumber
+* Selenium
+* Junit.
+(Projeto Maven, Escrita em Gherking)
